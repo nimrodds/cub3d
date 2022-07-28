@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   cub3d.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: nsartral <nsartral@student.42.fr>          +#+  +:+       +#+        */
+/*   By: nicolassartral <nicolassartral@student.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/01 10:38:41 by ebourdit          #+#    #+#             */
-/*   Updated: 2022/06/21 10:10:10 by nsartral         ###   ########.fr       */
+/*   Updated: 2022/07/28 15:42:14 by nicolassart      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -60,7 +60,7 @@ typedef struct		s_ray
 	double			sidedisty;
 	double			deltadistx;
 	double			deltadisty;
-
+ 
 	int				stepx;
 	int				stepy;
 	int				hit;
